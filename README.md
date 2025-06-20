@@ -69,7 +69,7 @@ This project visualizes global **Sea Surface Temperature (SST)** using NetCDF (.
 📘 Computer Science Student  
 📍 Sudan University of Science and Technology  
 🔗 [LinkedIn](https://www.linkedin.com/in/amjad-nazar)  
-🧪 Portfolio: [amjadnazar.github.io](https://amjadnazar.github.io)
+🧪 Portfolio: [amjadnazar.github.io](https://amgadnazar.github.io)
 
 ---
 

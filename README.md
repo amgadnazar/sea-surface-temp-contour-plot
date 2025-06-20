@@ -49,7 +49,7 @@ This project visualizes global **Sea Surface Temperature (SST)** using NetCDF (.
 | File Name                          | Description                                  |
 |-----------------------------------|----------------------------------------------|
 | `AmjadNazar_contourplot.py`       | Python code for processing and plotting SST  |
-| `SeaSurfaceTemp.nc`               | NetCDF data file (not included in repo)       |
+| `SeaSurfaceTemp.nc`               | NetCDF data file                             |
 
 ---
 
